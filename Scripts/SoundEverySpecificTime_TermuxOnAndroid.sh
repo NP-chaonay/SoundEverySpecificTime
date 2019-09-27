@@ -14,11 +14,11 @@ Hf=0
 M=0
 S=1
 WillResetConsole=0
-GSnd=./SoundUsed/GeneralBell.wav
-BbSnd=./SoundUsed/HoursStrike.wav
-e1hSnd=./SoundUsed/WestmisterChimes_OnHours.wav
-NA1Snd=./SoundUsed/Thai_National_Anthem_-_official_version_since_2004.ogg
-NA2Snd=./SoundUsed/Thai_National_Anthem_-_US_Navy_Band.ogg
+GSnd=./Sounds/GeneralBell.wav
+BbSnd=./Sounds/HoursStrike.wav
+e1hSnd=./Sounds/WestmisterChimes_OnHours.wav
+NA1Snd=./Sounds/Thai_National_Anthem_-_official_version_since_2004.ogg
+NA2Snd=./Sounds/Thai_National_Anthem_-_US_Navy_Band.ogg
 if [ "$VERBOSE" = 1 ] ; then echo "[INIT] Internal variables initialized."; fi
 if [ "$VERBOSE" = 1 ] ; then echo "[INIT] Defining internal functions..."; fi
 

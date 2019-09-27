@@ -14,11 +14,11 @@ Hf=0
 M=0
 S=1
 WillResetConsole=0
-GSnd="C:\Users\nutta\Applications\SoundEverySpecificTime\SoundUsed\GeneralBell.wav"
-BbSnd="C:\Users\nutta\Applications\SoundEverySpecificTime\SoundUsed\HoursStrike.wav"
-e1hSnd="C:\Users\nutta\Applications\SoundEverySpecificTime\SoundUsed\WestmisterChimes_OnHours.wav"
-NA1Snd="C:\Users\nutta\Applications\SoundEverySpecificTime\SoundUsed\Thai_National_Anthem_-_official_version_since_2004.ogg"
-NA2Snd="C:\Users\nutta\Applications\SoundEverySpecificTime\SoundUsed\Thai_National_Anthem_-_US_Navy_Band.ogg"
+GSnd="C:\Users\nutta\Applications\SoundEverySpecificTime\Sounds\GeneralBell.wav"
+BbSnd="C:\Users\nutta\Applications\SoundEverySpecificTime\Sounds\HoursStrike.wav"
+e1hSnd="C:\Users\nutta\Applications\SoundEverySpecificTime\Sounds\WestmisterChimes_OnHours.wav"
+NA1Snd="C:\Users\nutta\Applications\SoundEverySpecificTime\Sounds\Thai_National_Anthem_-_official_version_since_2004.ogg"
+NA2Snd="C:\Users\nutta\Applications\SoundEverySpecificTime\Sounds\Thai_National_Anthem_-_US_Navy_Band.ogg"
 if [ "$VERBOSE" = 1 ] ; then echo "[INIT] Internal variables initialized."; fi
 if [ "$VERBOSE" = 1 ] ; then echo "[INIT] Defining internal functions..."; fi
 
