@@ -4,12 +4,12 @@ Currently, there isn't a manual to read at this moment.
 
 Stay tuned, or you can explore and test my software anyway.
 
-# Music Credit
-* GeneralBell.wav
+## Music Credit
+### GeneralBell.wav
 
 Composed and MIDI-Produced by : Nuttapong Punpipat (NP-chaonay)
 
-* HoursStrike.wav
+### HoursStrike.wav
 
 Original Composer : (Bell chimes)
 
@@ -17,7 +17,7 @@ Arrangement Used : (See https://en.wikipedia.org/wiki/Westminster_Quarters#Descr
 
 Rearranged and MIDI-Produced by : Nuttapong Punpipat (NP-chaonay)
 
-* WestmisterChimes_OnHours.wav
+### WestmisterChimes_OnHours.wav
 
 Original Composer : William Crotch (See https://www.britannica.com/art/bell-chime#ref191580)
 
