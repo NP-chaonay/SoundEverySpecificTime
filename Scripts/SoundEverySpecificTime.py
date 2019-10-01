@@ -95,7 +95,7 @@ def hourstrike():
 	if not DEBUG:
 		c=1
 		while c<=H:
-			playsnd(BbSnd, 'duck')
+			playsnd_thread = threading.Thread(target=playsnd, args=(BbSnd, 'duck')); playsnd_thread.start()
 			time.sleep(2.4)
 			c=c+1
 	else:
